@@ -24,7 +24,7 @@ _Replace this with a clear and stepwise description of how to reproduce the test
 _Replace this with a clear and concise description of what you expected to happen. Use exact field naming and expected quantitative results._
 
 **Environment**
-Is this a test case for a specific environment:
+This test case is for the specific environment:
 
 - OS: _[e.g. iOS]_
 - Browser _[e.g. chrome, safari]_
