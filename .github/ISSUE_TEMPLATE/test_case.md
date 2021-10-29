@@ -1,6 +1,6 @@
 ---
 name: Test case
-about: Suggest an idea for this project
+about: Specify a new test case for this project
 title: ""
 labels: test case
 assignees: ""
