@@ -26,10 +26,6 @@ _Replace this with a clear and concise description of what you expected to happe
 **Environment**
 Is this a test case for a specific environment:
 
-- [ ] Mobile
-- [ ] Dektop
-- [ ] Any
-
 - OS: _[e.g. iOS]_
 - Browser _[e.g. chrome, safari]_
-- Version _[e.g. 22]_
+- Device _[e.g. Desktop]_
