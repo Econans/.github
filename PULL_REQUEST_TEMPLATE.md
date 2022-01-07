@@ -1,7 +1,8 @@
-**Description**
+**Changes made**  
+_Replace with a clear and concise description of the changes made by the pull request._
 
-A clear and concise description of the pull request.
+**Motivation**  
+_Replace with a clear and concise description of why these changes were made._
 
-**Motivation / Context**
-
-A short description of why this change is required.
+**Context or environment**  
+_Replace with a clear and consize description of the pull request's specific context, if such exists._
