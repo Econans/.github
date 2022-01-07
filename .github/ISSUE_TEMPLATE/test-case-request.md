@@ -1,13 +1,13 @@
 ---
-name: Test case
-about: Specify a new test case for this project
+name: Test case request
+about: Request a new test case
 title: ''
 labels: test
 assignees: ''
 
 ---
 
-**Describe what the test case is testing.**
+**Test description**
 _Replace this with a clear and concise description of what the test case is for and what use case is tested._
 
 **Prerequisite**
@@ -25,4 +25,4 @@ _Replace this with a clear and stepwise description of how to reproduce the test
 _Replace this with a clear and concise description of what you expected to happen. Use exact field naming and expected quantitative results._
 
 **Context or environment**
-If the test is context specific, please describe it here.
+_Replace with a clear and consize description of the test case's specific context, if such exists._

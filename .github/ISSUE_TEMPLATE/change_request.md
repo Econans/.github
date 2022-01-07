@@ -1,20 +1,17 @@
 ---
 name: Change request
-about: Suggest an change for this project
+about: Request changes to an existing feature
 title: ''
 labels: change
 assignees: ''
 
 ---
 
-**Is your change request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Change purpose**
+_Replace with a clear and concise description of what the change aims to solve or provide._
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Change description**
+_Replace with a clear and concise description of what you want changed._
 
-**Describe the current solution**
-A clear and concise description of how the current solution works right now.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Context or environment**
+_Replace with a clear and consize description of the feature's specific context, if such exists._
