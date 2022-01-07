@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-**Change purpose**
+**Change purpose**  
 _Replace with a clear and concise description of what the change aims to solve or provide._
 
-**Change description**
+**Change description**  
 _Replace with a clear and concise description of what you want changed._
 
-**Context or environment**
+**Context or environment**  
 _Replace with a clear and consize description of the feature's specific context, if such exists._
