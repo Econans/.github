@@ -14,4 +14,4 @@ _Replace with a clear and concise description of what the feature aims to solve 
 _Replace with a clear and concise description of the feature you want._
 
 **Context or environment**  
-_Replace with a clear and consize description of the feature's specific context, if such exists._
+_Replace with a clear and concise description of the feature's specific context, if such exists._

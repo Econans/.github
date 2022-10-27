@@ -11,7 +11,7 @@ assignees: ''
 _Replace this with a clear and concise description of what the test case is for and what use case is tested._
 
 **Prerequisite**  
-_Replace this with a list of prequisites for this test case (example below)._
+_Replace this with a list of prerequisites for this test case (example below)._
 
 - _Mortgage amount pre-set to 2 000 000 kr_
 
@@ -25,4 +25,4 @@ _Replace this with a clear and stepwise description of how to reproduce the test
 _Replace this with a clear and concise description of what you expected to happen. Use exact field naming and expected quantitative results._
 
 **Context or environment**  
-_Replace with a clear and consize description of the test case's specific context, if such exists._
+_Replace with a clear and concise description of the test case's specific context, if such exists._
